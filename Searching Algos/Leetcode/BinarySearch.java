@@ -14,7 +14,7 @@ public class BinarySearch {
 			  System.out.println(i);
 		  }
 		  else {
-			  return 
+			  return -1;
 		  }
 	  }
 
